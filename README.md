@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">f1oating</h1>
 
-<!--
-**f1oating/f1oating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+C++ / Vulkan / Rendering / Engine Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About
+- Low-level graphics programming
+- Vulkan 1.3, RenderGraph
+- Linux-first development
+
+---
+
+## 🔥 Featured Projects
+- **Aero3D Engine** — custom multiplatform Vulkan/DirectX12 game engine
+- **TRenderer** — DirectX11 deffered renderer
+- **Physics with DirectX11** — Physics simulation with DirectX11 rendering
+
+---
+
+## 🧰 Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-20-blue?logo=c%2B%2B)
+![Vulkan](https://img.shields.io/badge/Vulkan-1.3-red?logo=vulkan)
+![Linux](https://img.shields.io/badge/Linux-Arch-black?logo=linux)
+
+---
+
+## 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=f1oating&show_icons=true&theme=github_dark" />
