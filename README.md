@@ -14,8 +14,8 @@ C++ / Vulkan / Rendering / Engine Development
 ---
 
 ## 🔥 Featured Projects
-- **Aero3D Engine** — custom multiplatform Vulkan/DirectX12 game engine
-- **TRenderer** — DirectX11 deffered renderer
+- **Aero3D** — custom multiplatform Vulkan/DirectX12 game engine
+- **TRender** — DirectX11 deffered renderer
 - **Physics with DirectX11** — Physics simulation with DirectX11 rendering
 
 ---
